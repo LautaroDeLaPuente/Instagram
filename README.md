@@ -1,6 +1,6 @@
 # Tools-for-Instagram
 
-<img src="https://i.imgur.com/T0dfIyQ.gif" width="100">
+
 
 
 
@@ -18,7 +18,7 @@ Automation scripts for Instagram </br></br>
 
 
 
-![View changes](https://github.com/linkfy/Tools-for-Instagram/wiki/Changelog)
+![View changes](https://github.com/LautaroDeLaPuente/Instagram/wiki/Changelog)
 
 ## How to use it
 ### Easy way:
